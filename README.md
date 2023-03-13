@@ -1,5 +1,5 @@
 ## 올 때 메로나 
-목적지 기반 심부름 서비스 "올 때 메로나"  
+목적지 기반 심부름 서비스 "오다 주웠다"  
 
 [팀 노션](https://bubbly-silicon-1b9.notion.site/2c6eb7aa93a84aee9d16a001ba3ecc95) | 
 [시연 영상]()
